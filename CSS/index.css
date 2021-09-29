@@ -1,0 +1,53 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+    color: black;
+}
+
+
+.navbar{
+    width:100%;
+    height: auto;
+    overflow: auto;
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    justify-content: space-around;
+    background-color: #F35009;
+    font-family: cursive;
+    border-radius: 0px 0px 20px 20px;
+    box-shadow: 10px;
+}
+
+
+.navbar a{
+        
+        padding: 10px;
+        border-radius: 10px;
+        text-decoration: none;
+        font-size: 20px;
+        text-align: center;
+        border-radius: 20px;
+        color: white;
+    
+}
+
+.navbar a:hover{
+    border:1px solid black;
+}
+.intro{
+    font-size: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+ img{
+    border-radius: 50%;
+    float: right;
+    
+    
+    
+}
+
