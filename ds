@@ -1,0 +1,114 @@
+[33mcommit 2c4cb61b3862560dac5c38f7edb5525e79f329e3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Sandeep Gupta <guptasg300@gmail.com>
+Date:   Sat Oct 2 03:26:11 2021 +0530
+
+    links added
+
+[33mcommit 56506c4a2f42291ed20ad3f9ff9567aae861bca9[m
+Author: Sandeep Gupta <guptasg300@gmail.com>
+Date:   Sat Oct 2 03:21:37 2021 +0530
+
+    projects and links added
+
+[33mcommit 60709fc379eeb5b4ea79f606ec2409c85f8ec45b[m
+Merge: 1835208 bf19247
+Author: Sandeep Gupta <guptasg300@gmail.com>
+Date:   Fri Oct 1 18:02:13 2021 +0530
+
+    Merge branch 'main' of https://github.com/guptasandeep7/Portfolio
+
+[33mcommit 183520892ce02145866cedccd4d94992d5f9cd92[m
+Author: Sandeep Gupta <guptasg300@gmail.com>
+Date:   Fri Oct 1 17:58:27 2021 +0530
+
+    all path changes to relative path
+
+[33mcommit bf19247bd09ea14025bf60417031c0ee97425424[m
+Author: SANDEEP GUPTA <76438283+guptasandeep7@users.noreply.github.com>
+Date:   Fri Oct 1 17:52:35 2021 +0530
+
+    relative file path added
+
+[33mcommit 77bddcd791698640835c1e4bfc5825926d2c7579[m
+Author: SANDEEP GUPTA <76438283+guptasandeep7@users.noreply.github.com>
+Date:   Fri Oct 1 17:49:12 2021 +0530
+
+    relative file path added
+
+[33mcommit 312f22d6eca08b0be686d8f977b7b6366d9edde6[m
+Author: SANDEEP GUPTA <76438283+guptasandeep7@users.noreply.github.com>
+Date:   Fri Oct 1 17:47:17 2021 +0530
+
+    Delete CNAME
+
+[33mcommit 9e33d0beb7d93c2b020f587821c0c7b087a869f7[m
+Author: SANDEEP GUPTA <76438283+guptasandeep7@users.noreply.github.com>
+Date:   Fri Oct 1 17:44:07 2021 +0530
+
+    Update CNAME
+
+[33mcommit c207d15fa02dbc02de67c16a0f1216861cb9d28d[m
+Author: SANDEEP GUPTA <76438283+guptasandeep7@users.noreply.github.com>
+Date:   Fri Oct 1 17:43:29 2021 +0530
+
+    Update CNAME
+
+[33mcommit 49866eece3419780cad370cb64c9fe374d31d013[m
+Author: SANDEEP GUPTA <76438283+guptasandeep7@users.noreply.github.com>
+Date:   Fri Oct 1 17:43:02 2021 +0530
+
+    Update CNAME
+
+[33mcommit aaf355900d69f16837e4eb6931ead74f2623bd39[m
+Author: SANDEEP GUPTA <76438283+guptasandeep7@users.noreply.github.com>
+Date:   Fri Oct 1 17:42:38 2021 +0530
+
+    Update CNAME
+
+[33mcommit b5fb2c8af2bfba4e550836961f5d66d2e9d5ae72[m
+Author: SANDEEP GUPTA <76438283+guptasandeep7@users.noreply.github.com>
+Date:   Fri Oct 1 17:41:51 2021 +0530
+
+    Create CNAME
+
+[33mcommit dbc150beba6e72858fa54a8856388c0f313119f4[m
+Author: Sandeep Gupta <guptasg300@gmail.com>
+Date:   Fri Oct 1 17:39:41 2021 +0530
+
+    index file moved to root
+
+[33mcommit 75762ef3f4dd4f4b81af46aacfccb243339130e5[m
+Author: Sandeep Gupta <guptasg300@gmail.com>
+Date:   Fri Oct 1 02:16:30 2021 +0530
+
+    about me and contact added
+
+[33mcommit b2f13a5e6bec9585f6b9afb89bdf8210aa0270dd[m
+Author: Sandeep Gupta <guptasg300@gmail.com>
+Date:   Thu Sep 30 23:51:59 2021 +0530
+
+    skills added
+
+[33mcommit 3f44f6c2ba921be0eed988803b8b057f0e1bbecd[m
+Author: Sandeep Gupta <guptasg300@gmail.com>
+Date:   Thu Sep 30 18:19:03 2021 +0530
+
+    cards added in project
+
+[33mcommit 9b2541149319f06ff7a26e8807ca77098e1d51db[m
+Author: Sandeep Gupta <guptasg300@gmail.com>
+Date:   Thu Sep 30 02:36:44 2021 +0530
+
+    changed intro
+
+[33mcommit 4ea2bb896d744c5793c94162d8b9c8a90689b52b[m
+Author: Sandeep Gupta <guptasg300@gmail.com>
+Date:   Thu Sep 30 01:09:08 2021 +0530
+
+    nav bar and intro added
+
+[33mcommit 03d20ae615658e6165ade8df1607c6d03390118e[m
+Author: Sandeep Gupta <guptasg300@gmail.com>
+Date:   Wed Sep 29 17:47:18 2021 +0530
+
+    first commit
